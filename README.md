@@ -22,4 +22,4 @@ https://github.com/0xbunniee/MailCow-Pixel-Flood-Attack/assets/137713379/35e23bf
 
 
 #### Impact:
-The admin will not be able do anything as the admin page is completely become unresponsive which quite causes a pandemonium as no one has control over the mail server and cant do anything. As the MailCow is running the services in containers only the admin page is affected and others services like mail etc operates good. 
+The admin will not be able do anything as the admin page is completely become unresponsive which causes a pandemonium as no one has control over the mail server and can't do anything. As the MailCow is running the services in containers only the admin page is affected and others services like mail(SoGo), etc operates good. 
