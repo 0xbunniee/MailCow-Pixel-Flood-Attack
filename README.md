@@ -13,5 +13,5 @@ The application is vulnerable to pixel flood attack, once the payload has been s
   <img src="POC-3.png"/>
 4. After the successful upload it can be observed that the mail server will not respond properly and if the server spec is low it will also make the server go down and collapse.
 
-https://github.com/0xbunniee/MailCow-Pixel-Flood-Attack/blob/main/DOS_mailcow.mkv
+https://github.com/0xbunniee/MailCow-Pixel-Flood-Attack/blob/main/DOS_Mailcow.mp4
 
