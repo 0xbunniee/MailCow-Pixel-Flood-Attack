@@ -18,7 +18,8 @@ The application is vulnerable to pixel flood attack, once the payload has been s
 #### PoC:
 The admin page becomes unresponsive after the payload is uploaded.
 
-https://github.com/0xbunniee/MailCow-Pixel-Flood-Attack/assets/137713379/35e23bf6-c392-446c-824a-4a92e6736536
+
+https://github.com/0xbunniee/MailCow-Pixel-Flood-Attack/assets/137713379/ac314e1d-267d-47d2-b3d7-f1c793a4b1f8
 
 
 #### Impact:
